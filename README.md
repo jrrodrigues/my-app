@@ -9,6 +9,8 @@ Teste alterar arquivo
 ------
 Tarefa 001
 ------
+Tarefa 005
+------
 asdfas asd
 f asd
 f a
